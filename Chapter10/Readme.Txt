@@ -1,0 +1,2 @@
+The CatBuilder application in this folder is the program that builds the initial EEPROM contents which are contained in the .Hex file. See book text (Chapter 10 page 11 onwards) for more details. 
+Alan T.
